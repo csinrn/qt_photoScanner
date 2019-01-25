@@ -13,6 +13,6 @@ Please make sure the background of the pictire is simple and without any other c
 
 
 <div align="center">
-<img src="https://github.com/csinrn/qt_photoScanner/blob/master/pic.png" height="300px" >
-<img src="https://github.com/csinrn/qt_photoScanner/blob/master/pdf_pic.jpg" height="300px" >
+<img src="https://github.com/csinrn/qt_photoScanner/blob/master/picture.png" height="300px" >
+<img src="https://github.com/csinrn/qt_photoScanner/blob/master/pdf.jpg" height="300px" >
 </div>
