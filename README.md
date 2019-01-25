@@ -14,4 +14,4 @@ Please make sure the background of the pictire is simple and without any other c
 
 
 ![image](https://github.com/csinrn/qt_photoScanner/blob/master/pic.png)
-![image](https://github.com/csinrn/qt_photoScanner/blob/master/pdf_pic.png)
+![image](https://github.com/csinrn/qt_photoScanner/blob/master/pdf_pic.jpg)
