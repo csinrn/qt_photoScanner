@@ -1,8 +1,7 @@
 ## qt_photoScanner
 a qt+opencv program for converting a file picture to pdf 
 
-<br>
-### Usage
+## Usage
 press *Browse* for choosing the pictu re, **Run** for corner detecting, and **Save** for save to pdf. 
 Check the **Colorful** checkbox if colors are needed, or it will be only black and white.<br>
 <br>
@@ -13,5 +12,7 @@ the modification, press **Save**.
 Please make sure the background of the pictire is simple and without any other corner for the correctness of the orner finding.
 
 
-![image](https://github.com/csinrn/qt_photoScanner/blob/master/pic.png)
-![image](https://github.com/csinrn/qt_photoScanner/blob/master/pdf_pic.jpg)
+<div align="center">
+<img src="https://github.com/csinrn/qt_photoScanner/blob/master/pic.png" height="300px" >
+<img src="https://github.com/csinrn/qt_photoScanner/blob/master/pdf_pic.jpg" height="300px" >
+</div>
