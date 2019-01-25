@@ -13,3 +13,5 @@ the modification, press **Save**.
 Please make sure the background of the pictire is simple and without any other corner for the correctness of the orner finding.
 
 
+![image](https://github.com/csinrn/qt_photoScanner/blob/master/pic.png)
+![image](https://github.com/csinrn/qt_photoScanner/blob/master/pdf_pic.png)
